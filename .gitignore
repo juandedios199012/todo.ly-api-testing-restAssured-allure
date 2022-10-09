@@ -1,0 +1,12 @@
+.idea
+.gradle
+/gradle
+/target
+/build
+gradlew
+gradlew.bat
+/resource/logs/**
+*.DS_Store
+out
+/src/test/resources/screenshots/**
+*.iml
